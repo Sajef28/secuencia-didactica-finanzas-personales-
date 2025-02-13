@@ -38,3 +38,28 @@ Diseñar e implementar una secuencia didáctica digital para fortalecer las comp
 •	Identificar, mediante un diagnóstico, el nivel de conocimiento y habilidades en finanzas personales de los estudiantes de educación media en Vista Hermosa, Meta.
 • Desarrollar una secuencia didáctica digital que aborde de manera clara y práctica conceptos básicos de finanzas personales, la gestión de sesgos y el uso de herramientas digitales para mejorar la toma de decisiones financieras.
 •	Implementar la secuencia didáctica digital con los estudiantes de educación media en Vista Hermosa, Meta.
+
+## Marco conceptual y teórico. 
+### Conceptos Clave: 
+ - El agente financiero: Es el individuo que toma decisiones económicas relacionadas con la gestión de sus recursos financieros. Este concepto implica que la persona es consciente de su rol en la economía y cómo sus decisiones pueden afectar su bienestar financiero personal.
+
+- Competencias financieras básicas: Las competencias financieras básicas se refieren a las habilidades y conocimientos esenciales que capacitan a un individuo para comprender, gestionar y tomar decisiones sobre sus finanzas personales.
+
+- Sesgos económicos: Tendencias cognitivas o emocionales que influyen en la percepción y toma de decisiones económicas. La economía conductual identifica estos sesgos como una barrera para una correcta gestión de los recursos y un determinante en el comportamiento económico. 
+
+- Educación Financiera: Es el proceso de adquisición de conocimientos, habilidades y actitudes que permiten a las personas comprender y gestionar eficazmente sus recursos financieros.
+
+- Inteligencia Financiera: Es la capacidad de analizar, interpretar y aplicar conocimientos financieros para optimizar la gestión del dinero y la toma de decisiones económicas.
+
+### Revisión teórica:
+La presente revisión teórica fundamenta el proyecto en tres ejes principales. Primero, se exploran los conceptos básicos de la economía, definidos como el estudio de cómo las sociedades administran recursos escasos para satisfacer necesidades. Mankiw (2018), Parkin et al. (2020) y Krugman y Wells (2008) ofrecen una base sólida sobre temas clave como escasez, costo de oportunidad y oferta y demanda, enfatizando el rol fundamental del individuo como agente económico dentro de un sistema interdependiente. Estos conceptos son esenciales para que los estudiantes comprendan las bases sobre las cuales toman decisiones financieras en un entorno de recursos limitados, un principio central en la educación financiera.
+
+En segundo lugar, la economía conductual, desarrollada por autores como Thaler (2015) y Kahneman (2011), explica cómo los sesgos cognitivos y emocionales, como la aversión a la pérdida, el anclaje y el exceso de confianza, influyen de manera significativa en la toma de decisiones económicas y financieras. Estos sesgos afectan no solo las decisiones en los mercados financieros, sino también la manera en que los individuos gestionan su dinero de manera cotidiana. Ackert y Deaves (2010) complementan esta perspectiva, mostrando cómo dichos sesgos se reflejan en el comportamiento económico real y subrayan la importancia de reconocer estos patrones en la educación financiera, ya que son claves para ayudar a los estudiantes a tomar decisiones más racionales y menos impulsivas en el manejo de sus finanzas personales.
+
+Finalmente, la educación financiera emerge como una herramienta esencial para la planificación económica personal. Mitchell y Lusardi (2014) destacan la relevancia de una alfabetización financiera temprana, la cual permite a los individuos desarrollar una base sólida para una gestión financiera responsable. A su vez, Rojas López (2017) y Sora Barreto (2016) proporcionan enfoques prácticos que enseñan a los estudiantes a manejar sus ingresos, presupuestos, ahorrar e invertir de manera eficiente. Estos conocimientos y habilidades son fundamentales para que los estudiantes de educación media tomen decisiones aplicando la inteligencia financiera contribuyendo así a su bienestar financiero a corto y largo plazo. Este marco teórico, compuesto por estos aportes, respalda el diseño de la secuencia didáctica enfocada en fortalecer competencias financieras básicas y promover decisiones financieras responsables y bien fundamentadas entre los estudiantes.
+
+### Relación del Proyecto con la Problemática Identificada:
+En el contexto del municipio de Vista Hermosa, Meta, se identificó que los estudiantes de educación media enfrentan dificultades para comprender su papel en la economía local y tomar decisiones económicas informadas. La falta de educación financiera básica y la falta de reconocimiento de sesgos cognitivos limitan su capacidad para participar de manera efectiva en la vida financiera, lo cual puede perpetuar ciclos de pobreza o ineficiencia en la gestión de sus propios recursos.
+El diagnóstico inicial permitirá identificar la situación actual de los estudiantes y las áreas de mejora. La propuesta de una secuencia didáctica busca ser un punto de partida para la formación de competencias financieras básicas, basada en principios de la economía conductual y técnicas educativas innovadoras. De esta manera, se pretende contribuir al desarrollo de capacidades individuales que influyen positivamente en la economía local y en la sostenibilidad financiera de las futuras generaciones.
+
+  
